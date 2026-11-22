@@ -1,0 +1,6 @@
+{
+  "name": "studyroom-board",
+  "version": "0.1.0",
+  "description": "유빈이 공부방 상황판: 선생님 세션마다 가이드와 진행 상황을 옆 패널에 보여줘요 (담임은 종합 상황판)",
+  "types": "./types/index.d.ts"
+}

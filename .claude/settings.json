@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "studyroom": {
+      "source": {
+        "source": "directory",
+        "path": "/Users/espoar6/bini/.claude/studyroom"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "studyroom-board@studyroom": true
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "studyroom",
+  "owner": { "name": "bini" },
+  "plugins": [{ "name": "studyroom-board", "source": "./studyroom-board" }]
+}
